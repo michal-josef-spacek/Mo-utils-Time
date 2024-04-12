@@ -141,7 +141,7 @@ Returns undef.
 
 =head1 EXAMPLE1
 
-=for comment filename=check_country_3166_1_alpha_2_ok.pl
+=for comment filename=check_time_24hhmm_ok.pl
 
  use strict;
  use warnings;
@@ -161,7 +161,7 @@ Returns undef.
 
 =head1 EXAMPLE2
 
-=for comment filename=check_time_24hhmm.pl
+=for comment filename=check_time_24hhmm_fail.pl
 
  use strict;
  use warnings;
@@ -184,7 +184,7 @@ Returns undef.
 
 =head1 EXAMPLE3
 
-=for comment filename=check_country_3166_1_alpha_3_ok.pl
+=for comment filename=check_time_24hhmmss_ok.pl
 
  use strict;
  use warnings;
@@ -204,7 +204,7 @@ Returns undef.
 
 =head1 EXAMPLE4
 
-=for comment filename=check_country_3166_1_alpha_3_fail.pl
+=for comment filename=check_time_24hhmmss_fail.pl
 
  use strict;
  use warnings;

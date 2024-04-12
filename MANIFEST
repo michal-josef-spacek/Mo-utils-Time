@@ -1,4 +1,8 @@
 Changes
+examples/check_time_24hhmm_fail.pl
+examples/check_time_24hhmm_ok.pl
+examples/check_time_24hhmmss_fail.pl
+examples/check_time_24hhmmss_ok.pl
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
 inc/Module/Install/AuthorTests.pm
