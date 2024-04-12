@@ -19,6 +19,7 @@ Makefile.PL
 MANIFEST			This list of files
 META.yml
 README
+SIGNATURE
 t/Mo-utils-Time/01-use.t
 t/Mo-utils-Time/02-version.t
 t/Mo-utils-Time/03-check_time_24hhmm.t
