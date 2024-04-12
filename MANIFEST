@@ -1,0 +1,24 @@
+Changes
+inc/Module/Install.pm
+inc/Module/Install/AuthorRequires.pm
+inc/Module/Install/AuthorTests.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/ReadmeFromPod.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+LICENSE
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+t/Mo-utils-Time/01-use.t
+t/Mo-utils-Time/02-version.t
+t/Mo-utils-Time/03-check_time_24hhmm.t
+t/Mo-utils-Time/04-check_time_24hhmmss.t
+Time.pm
+xt/Mo-utils-Time/01-pod_coverage.t
+xt/Mo-utils-Time/02-pod.t

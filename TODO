@@ -1,0 +1,11 @@
+TODO
+====
+1. Support ISO 8601 time format
+2. Support Julian time
+3. Support Unix time.
+4. Mention non-sense of time storage in this forms because this is buggy.
+   e.g. 2016-12-31T23:59:60 is valid but common 23:59:60 is not valid.
+5.
+
+Applied
+=======
